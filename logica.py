@@ -7,8 +7,8 @@ print("Digite o sua idade")
 idade = int(input())
 idade += 1
 print("Sua idade + 1 é: " + str(idade))
-
-print("Oi de novo!")
+idade +=3
+print("Seu novo numero: " + str(idade))
 
 print("ola!")
 
